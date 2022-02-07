@@ -1,6 +1,10 @@
 body {
   font-family: Cabin;
 }
+.btn {
+  background-color: #055160;
+  border: none;
+}
 h1 {
   color: #878787;
   font-size: 24px;
